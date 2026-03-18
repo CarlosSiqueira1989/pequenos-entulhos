@@ -17,31 +17,31 @@ ctaTitle: Precisa de ajuda agora?
 ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
 ctaButtonText: Chamar no WhatsApp
 ctaWhatsappMessage: Olá! Gostaria de mais informações.
-heroBadge: Andaime para Obra
-heroTitle: Aluguel de Andaime
+heroBadge: Caçamba para Obra
+heroTitle: Aluguel de Caçamba
 heroTitleHighlight: em São Paulo
-heroSubtitle: Andaimes metálicos e fachadeiros para obras e serviços em altura. Montagem inclusa. Segurança garantida. Diária ou mensal.
+heroSubtitle: Caçambas para obras e reformas. Descarte correto de entulho. Entrega e retirada no mesmo dia. Documentação ambiental em dia.
 heroCtaText: Falar no WhatsApp
-heroCtaSecondaryText: Ver tipos
-heroWhatsappMessage: Olá! Preciso alugar andaime para minha obra. Vocês montam?
-servicesTitle: Andaimes para Locação
-servicesSubtitle: Segurança nas alturas
-aboutTitle: Referência em Aluguel de Andaime
-aboutSubtitle: Equipamentos certificados
-aboutText: Locamos andaimes metálicos, fachadeiros e móveis para obras e serviços em altura. Montagem e desmontagem por equipe treinada. Equipamentos com certificação.
+heroCtaSecondaryText: Ver tamanhos
+heroWhatsappMessage: Olá! Preciso alugar uma caçamba. Vocês entregam no meu endereço?
+servicesTitle: Nossas Caçambas
+servicesSubtitle: Do tamanho certo para sua obra
+aboutTitle: Referência em Aluguel de Caçamba
+aboutSubtitle: Descarte legal de entulho
+aboutText: Oferecemos aluguel de caçambas em diversos tamanhos para obras, reformas e demolições. Descarte ambientalmente correto do entulho. Licenciamento em dia. Entrega rápida.
 aboutStats:
   - number: 20+
-    label: Anos de experiência
-  - number: 3000+
+    label: Anos no mercado
+  - number: 5000+
     label: Obras atendidas
-  - number: 100%
-    label: Segurança garantida
+  - number: 24h
+    label: Orçamento online
 featuredServices:
-  - aluguel-de-andaime
-  - aluguel-andaime-fachadeiro
-  - aluguel-andaime-movel
-  - aluguel-andaime-tubular
-  - aluguel-plataforma-elevatoria
-  - aluguel-escada-aluminio
-  - montagem-de-andaime
-activeTemplateId: aluguel-andaime
+  - aluguel-de-cacamba
+  - aluguel-cacamba-3m
+  - aluguel-cacamba-6m
+  - aluguel-cacamba-8m
+  - aluguel-cacamba-entulho
+  - aluguel-cacamba-demolicao
+  - locacao-cacamba-hidrogrua
+activeTemplateId: aluguel-cacamba
