@@ -5,8 +5,8 @@ aiProvider: openai
 aiApiKey: ""
 pexelsApiKey: ""
 canonicalUrl: ""
-companyPhone: ""
-companyWhatsapp: ""
+companyPhone: "41999999000"
+companyWhatsapp: "41999999000"
 generateSitemap: true
 generateRobots: true
 robotsDisallow:
