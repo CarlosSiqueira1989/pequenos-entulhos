@@ -29,7 +29,7 @@ featuredServices:
 aboutTitle: Referência em Aluguel de Caçamba
 aboutSubtitle: Descarte legal de entulho
 aboutText: Oferecemos aluguel de caçambas em diversos tamanhos para obras, reformas e demolições. Descarte ambientalmente correto do entulho. Licenciamento em dia. Entrega rápida.
-aboutImage: ""
+aboutImage: /images/general/1773853454724-aluguel-de-ca-amba.png
 aboutStats:
   - number: 20+
     label: Anos no mercado
@@ -38,7 +38,7 @@ aboutStats:
   - number: 24h
     label: Orçamento online
 locationTitle: Nossa Localização
-locationAddress: Rua Exemplo, 123 - Bairro - São Paulo/SP
+locationAddress: Rua Guilherme Socher, 365 - Roça Grande - Colombo/PR
 locationMapEmbed: ""
 ctaTitle: Precisa de ajuda agora?
 ctaText: Nossa equipe está disponível para atender você. Clique abaixo e fale conosco pelo WhatsApp!
