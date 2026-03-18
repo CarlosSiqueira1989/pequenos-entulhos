@@ -6,14 +6,14 @@ companyAddress: Rua Guilherme Socher, 365 - Roça Grande
 companyCity: Colombo
 companyState: PR
 companyCEP: 83.402-400
-heroBadge: Caçamba para Obra
-heroTitle: Aluguel de Caçamba
-heroTitleHighlight: em São Paulo
-heroSubtitle: Caçambas para obras e reformas. Descarte correto de entulho. Entrega e retirada no mesmo dia. Documentação ambiental em dia.
+heroBadge: Tambores para Obra
+heroTitle: Aluguel de Caçamba e Tambores
+heroTitleHighlight: em Curitiba e Região Metropolitana
+heroSubtitle: Caçambas e Tambores para obras e reformas. Descarte correto de entulho. Entrega e retirada no mesmo dia. Documentação ambiental em dia.
 heroCtaText: Falar no WhatsApp
 heroCtaSecondaryText: Ver tamanhos
-heroWhatsappMessage: Olá! Preciso alugar uma caçamba. Vocês entregam no meu endereço?
-heroBackground: ""
+heroWhatsappMessage: Olá! Preciso alugar uma caçamba ou tambor. Vocês entregam no meu endereço?
+heroBackground: /images/general/1773853117241-aluguel-de-tambor.jpg
 socialTitle: Empresas que confiam em nós
 socialProofActive: false
 clients: []
